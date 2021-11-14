@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\bin\Debug\netcoreapp3.1\AplikasiPerpustakaan.exe
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\bin\Debug\netcoreapp3.1\AplikasiPerpustakaan.deps.json
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\bin\Debug\netcoreapp3.1\AplikasiPerpustakaan.runtimeconfig.json
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\bin\Debug\netcoreapp3.1\AplikasiPerpustakaan.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\bin\Debug\netcoreapp3.1\AplikasiPerpustakaan.dll
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\bin\Debug\netcoreapp3.1\AplikasiPerpustakaan.pdb
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.dll
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.pdb
+C:\Users\ASUS\source\repos\AplikasiPerpustakaan\AplikasiPerpustakaan\obj\Debug\netcoreapp3.1\AplikasiPerpustakaan.genruntimeconfig.cache
